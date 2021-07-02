@@ -9,7 +9,7 @@ function App() {
 
 
 
-      <p> Search </p>
+      <p> Search luul </p>
       <Table/>
    
     </div>
